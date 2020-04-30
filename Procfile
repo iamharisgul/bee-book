@@ -1,0 +1,1 @@
+web: gunicorn bee-book.wsgi --log-file -
