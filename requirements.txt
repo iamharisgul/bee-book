@@ -3,7 +3,7 @@ autopep8==1.4.4
 certifi==2019.9.11
 chardet==3.0.4
 colorama==0.4.1
-Django==2.1.7
+Django==2.2.10
 django-ckeditor==5.4.0
 django-cleanup==2.1.0
 django-crispy-forms==1.7.2
