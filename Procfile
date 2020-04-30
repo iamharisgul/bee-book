@@ -1,1 +1,1 @@
-web: gunicorn bee-book.wsgi --log-file -
+web: gunicorn blog_project.wsgi --log-file -
