@@ -11,5 +11,5 @@ class ArticleAdmin(admin.ModelAdmin):
 
 
 # Register your models here.
-admin.site.register(Post, ArticleAdmin)
-admin.site.register(Comment)
+admin.site.register(models.Post, ArticleAdmin)
+admin.site.register(models.Comment)
