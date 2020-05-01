@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '5pr9#k0p6q_#-=+#h9!c%2+id)$ox_s-4vy%6refm^f4dpn6hi'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['bee-book.herokuapp.com', '127.0.0.1']
 
