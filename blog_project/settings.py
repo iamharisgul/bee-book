@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     'accounts.apps.AccountsConfig'
 ]
 
+
+AUTH_USER_MODEL = 'auth.User'
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',
